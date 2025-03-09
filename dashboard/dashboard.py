@@ -38,7 +38,7 @@ def create_lastPurchased(df):
 
 
 #load data
-alldata = pd.read_csv("alldata.csv")
+alldata = pd.read_csv("dashboard/alldata.csv")
 
 datetime_columns = ["order_purchase_timestamp", "order_delivered_customer_date"]
 alldata.sort_values(by="order_purchase_timestamp", inplace=True)

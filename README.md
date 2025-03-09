@@ -1,9 +1,9 @@
 # E-Commerce-Dashboard
-##Deskripsi
+## Deskripsi
 
 Dashboard ini dibuat menggunakan Streamlit untuk menganalisis data penjualan produk berdasarkan kategori, kota pelanggan, dan waktu transaksi terakhir pelanggan. Dashboard menampilkan visualisasi data seperti grafik batang dan histogram untuk memudahkan pemahaman terhadap tren bisnis.
 
-##Persyaratan
+## Persyaratan
 
 Sebelum menjalankan aplikasi, pastikan Anda memiliki:
 
@@ -30,7 +30,7 @@ Clone atau Unduh Repository
 git clone https://github.com/username/repository-name.git
 cd repository-name
 
-##Jalankan Aplikasi Streamlit
+## Jalankan Aplikasi Streamlit
 
 streamlit run app.py
 

@@ -21,7 +21,7 @@ pip install streamlit pandas matplotlib seaborn
 ## Cara Menjalankan Dashboard
 - Clone atau Unduh Repository
 ```
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Rypper370/E-Commerce-Dashboard
 cd repository-name
 ```
 
